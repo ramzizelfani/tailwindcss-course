@@ -7,3 +7,7 @@
 #### customizing tailwind with the tailwind-cli
 
 - `npx tailwindcss-cli build inputfile.css -o outputfile.css`
+
+#### Init tailwindcss in a project with postcss
+
+- `npx tailwindcss init -p` // generate tailwind.config.js and postcss.config.js

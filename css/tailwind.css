@@ -1,8 +1,3 @@
-.hello {
-  color: green;
-}
-
-/* The three tailwindcss layers  */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
